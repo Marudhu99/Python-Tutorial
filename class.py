@@ -25,4 +25,7 @@ obj1.name = "MarudhuPandiyan"
 # delete object properties
 del obj1.age
 
+# delete object
+del obj1
+
 
